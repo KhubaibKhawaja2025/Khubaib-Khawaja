@@ -1,6 +1,6 @@
 ## About Me:
 
-I'm currently working on
+🔭I'm currently working on
 - Full-stack web & mobile apps
 - AI-powered projects
 - Modern SaaS products
